@@ -23,6 +23,19 @@ Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <6>
+<6> 
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<6>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4 
+Press: ALT+F4
+Press: ALT+F4
+<6>
 <off>
 sudo amixer set Master mute
 mkfs ext dev/sda1
