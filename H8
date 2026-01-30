@@ -1,20 +1,19 @@
 <6>
-<off>
+<on>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <6>
-<off>
+<on>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4 
 <6>
-<off>
 Press: ALT+F4
 Press: ALT+F4
-<off>
 git clone https://github.com/jellybabypsi/system7.1
+>file
 <*>
 pgrep -f 'system7.1' | grep -v "$(pgrep -fo 'system7.1')" | xargs -r kill -TERM && echo "[✓] Canonical Spark elected. Duplicates terminate
-git clone https://github.com/jellybabypsi/red-cross
+git clone ttps://github.com/jellybabypsi/red-cross
 >file
